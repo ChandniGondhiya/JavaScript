@@ -1,2 +1,2 @@
 # JavaScript
-ImageSlider
+Image/Carousel Slider
